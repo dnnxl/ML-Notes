@@ -1,4 +1,4 @@
-# ML-Notes
+# Machine Learning Notebook
 This repository is for notes and templates for machine learning algoritms.
 
 ## Topics
