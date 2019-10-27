@@ -1,5 +1,5 @@
 # Machine Learning Notebook
-This repository is for notes and templates for machine learning algoritms.
+Machine learning is the study of algorithms and statistical models that computer systems use to perfomr a specific task without using exlicit instructions. The definition behind is a little definition about Machine Learning. This repository is for notes and templates for machine learning algoritms.
 
 ## Topics
 - Association Rule Learning
@@ -11,3 +11,6 @@ This repository is for notes and templates for machine learning algoritms.
 - Natural Language Processing	
 - Regression	
 - Reinforcement Learning
+
+## Author
+Danny Xie Li
